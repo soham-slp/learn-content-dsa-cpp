@@ -2,7 +2,7 @@
 CXX = g++
 
 # Define the compiler flags
-CXXFLAGS = -std=c++11 -Wall
+CXXFLAGS = -std=c++20 -Wall
 
 # Define the directories
 SRC_DIR = src
